@@ -5,3 +5,4 @@ We can also display real-time weather information for a user's location, which i
 Babel Plugin has been discontinued, hence deployment could not be initialized. 
 
 This project is better created using VITE, for more functionality and smooth deployment.
+The source code can easily be modified and would run smoothly in  React-Vite. 
